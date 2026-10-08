@@ -55,6 +55,12 @@ python3 host/mechdog_cli.py --cmd "POSE_SIT;POSE_DEFAULT;ACTION 7" --wait 2
 python3 host/mechdog_cli.py --cmd "SONAR"
 ```
 
+## 📸 运行演示
+
+控制 CLI 真实运行界面（支持串口 + Wi-Fi 双通道）：
+
+<img src="assets/run-cli.png" alt="控制 CLI 运行截图" width="640"/>
+
 ## 📜 命令协议
 
 | 命令 | 含义 | 示例 |
